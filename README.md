@@ -1,10 +1,5 @@
 # Reaction Game 
-It’s a simple game in which users have to quickly click on the number
-shown in GUI and Find the text according to the number represented.
-Game will start, when you click on start button.
-Remember, timer will start at that point when you click the start button.
-The reaction time will be calculated on your reaction speed.
-To play the game again, click on Play Again button at the end of game.
+It’s a simple game in which users have to quickly click on the number shown in GUI and Find the text according to the number represented. The game will start when you click on the start button. Remember, the timer will begin at that point when you click the start button. The reaction time will be calculated on your reaction speed. To play the game again, click on the Play Again button at the end.
 
 <br />
 
